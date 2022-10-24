@@ -1,0 +1,8 @@
+export DREAMHOST_API_KEY="SomeImportantValue"
+
+export LE_DOMAIN="example.com"
+export LE_EMAIL_ADDRESS="your@email.address"
+
+# Grab this from /usr/syno/etc/certificate/_archive/INFO
+# after you install the certs for the first time in the UI
+export SYNOLOGY_CERT_ID="6 digit ID"
